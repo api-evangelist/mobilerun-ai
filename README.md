@@ -1,4 +1,4 @@
-# mobilerun-ai
+# Mobilerun
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,172 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-mobilerun-ai is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://mobilerun.ai/
+Mobilerun provides cloud‑hosted mobile phones for AI agents, enabling developers to automate mobile apps, receive SMS, and run AI‑driven workflows on real iOS and Android devices. Backed by a16z and Y Combinator, the platform offers APIs, SDKs, and MCP integration for tasks such as app testing, social media automation, market intelligence, and AI agent building. It supports dedicated residential IPs, eSIM provisioning, and scalable phone fleets for enterprise use.
+
+**Areas:** Mobile Automation · Cloud Phones · AI Agents · Device Fleet · API · Testing · Residential IP
+
+## Mobilerun on APIs.io
+
+Everything profiled for Mobilerun is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/mobilerun-ai/](https://apis.io/providers/mobilerun-ai/)** — or go straight to one of the APIs or properties below.
+
+### APIs (42)
+
+- [Mobilerun Action Catalog API](https://apis.io/apis/mobilerun-ai/mobilerun-ai-action-catalog-api/) — The Action Catalog API from Mobilerun — 2 operation(s) for action catalog.
+- [Mobilerun Actions API](https://apis.io/apis/mobilerun-ai/mobilerun-ai-actions-api/) — The Actions API from Mobilerun — 4 operation(s) for actions.
+- [Mobilerun Agent Workflows API](https://apis.io/apis/mobilerun-ai/mobilerun-ai-agent-workflows-api/) — The Agent Workflows API from Mobilerun — 2 operation(s) for agent workflows.
+- [Mobilerun Agents API](https://apis.io/apis/mobilerun-ai/mobilerun-ai-agents-api/) — The Agents API from Mobilerun — 11 operation(s) for agents.
+- [Mobilerun Apps API](https://apis.io/apis/mobilerun-ai/mobilerun-ai-apps-api/) — The Apps API from Mobilerun — 7 operation(s) for apps.
+- [Mobilerun Chat API](https://apis.io/apis/mobilerun-ai/mobilerun-ai-chat-api/) — The Chat API from Mobilerun — 9 operation(s) for chat.
+- [Mobilerun Connect Proxies API](https://apis.io/apis/mobilerun-ai/mobilerun-ai-connect-proxies-api/) — Manage your Mobilerun Connect Proxies
+- [Mobilerun Connections API](https://apis.io/apis/mobilerun-ai/mobilerun-ai-connections-api/) — Retrieve your Mobilerun Connect connection history
+- [Mobilerun Countries API](https://apis.io/apis/mobilerun-ai/mobilerun-ai-countries-api/) — Mobilerun Connect country coverage information
+- [Mobilerun Credentials API](https://apis.io/apis/mobilerun-ai/mobilerun-ai-credentials-api/) — The Credentials API from Mobilerun — 10 operation(s) for credentials.
+- [Mobilerun Device Traffic API](https://apis.io/apis/mobilerun-ai/mobilerun-ai-device-traffic-api/) — The Device Traffic API from Mobilerun — 2 operation(s) for device traffic.
+- [Mobilerun Devices API](https://apis.io/apis/mobilerun-ai/mobilerun-ai-devices-api/) — The Devices API from Mobilerun — 12 operation(s) for devices.
+- [Mobilerun Discovery API](https://apis.io/apis/mobilerun-ai/mobilerun-ai-discovery-api/) — The Discovery API from Mobilerun — 2 operation(s) for discovery.
+- [Mobilerun Events API](https://apis.io/apis/mobilerun-ai/mobilerun-ai-events-api/) — The Events API from Mobilerun — 2 operation(s) for events.
+- [Mobilerun Executions API](https://apis.io/apis/mobilerun-ai/mobilerun-ai-executions-api/) — The Executions API from Mobilerun — 5 operation(s) for executions.
+- [Mobilerun Files API](https://apis.io/apis/mobilerun-ai/mobilerun-ai-files-api/) — The Files API from Mobilerun — 6 operation(s) for files.
+- [Mobilerun Flow Actions API](https://apis.io/apis/mobilerun-ai/mobilerun-ai-flow-actions-api/) — The Flow Actions API from Mobilerun — 2 operation(s) for flow actions.
+- [Mobilerun Flows API](https://apis.io/apis/mobilerun-ai/mobilerun-ai-flows-api/) — The Flows API from Mobilerun — 19 operation(s) for flows.
+- [Mobilerun Mailbox Messages API](https://apis.io/apis/mobilerun-ai/mobilerun-ai-mailbox-messages-api/) — The Mailbox Messages API from Mobilerun — 2 operation(s) for mailbox messages.
+- [Mobilerun Mailboxes API](https://apis.io/apis/mobilerun-ai/mobilerun-ai-mailboxes-api/) — The Mailboxes API from Mobilerun — 9 operation(s) for mailboxes.
+- [Mobilerun Messages API](https://apis.io/apis/mobilerun-ai/mobilerun-ai-messages-api/) — The Messages API from Mobilerun — 5 operation(s) for messages.
+- [Mobilerun Models API](https://apis.io/apis/mobilerun-ai/mobilerun-ai-models-api/) — The Models API from Mobilerun — 1 operation(s) for models.
+- [Mobilerun Numbers API](https://apis.io/apis/mobilerun-ai/mobilerun-ai-numbers-api/) — The Numbers API from Mobilerun — 5 operation(s) for numbers.
+- [Mobilerun Profiles API](https://apis.io/apis/mobilerun-ai/mobilerun-ai-profiles-api/) — The Profiles API from Mobilerun — 1 operation(s) for profiles.
+- [Mobilerun Proxies API](https://apis.io/apis/mobilerun-ai/mobilerun-ai-proxies-api/) — The Proxies API from Mobilerun — 2 operation(s) for proxies.
+- [Mobilerun Tasks API](https://apis.io/apis/mobilerun-ai/mobilerun-ai-tasks-api/) — Tasks API
+- [Mobilerun Timezones API](https://apis.io/apis/mobilerun-ai/mobilerun-ai-timezones-api/) — The Timezones API from Mobilerun — 1 operation(s) for timezones.
+- [Mobilerun Tools/Apps API](https://apis.io/apis/mobilerun-ai/mobilerun-ai-tools-apps-api/) — The Tools/Apps API from Mobilerun — 6 operation(s) for tools/apps.
+- [Mobilerun Tools/Browser API](https://apis.io/apis/mobilerun-ai/mobilerun-ai-tools-browser-api/) — The Tools/Browser API from Mobilerun — 1 operation(s) for tools/browser.
+- [Mobilerun Tools/Files API](https://apis.io/apis/mobilerun-ai/mobilerun-ai-tools-files-api/) — The Tools/Files API from Mobilerun — 2 operation(s) for tools/files.
+- [Mobilerun Tools/Misc API](https://apis.io/apis/mobilerun-ai/mobilerun-ai-tools-misc-api/) — The Tools/Misc API from Mobilerun — 8 operation(s) for tools/misc.
+- [Mobilerun Tools/Navigation API](https://apis.io/apis/mobilerun-ai/mobilerun-ai-tools-navigation-api/) — The Tools/Navigation API from Mobilerun — 6 operation(s) for tools/navigation.
+- [Mobilerun Tools/Number API](https://apis.io/apis/mobilerun-ai/mobilerun-ai-tools-number-api/) — The Tools/Number API from Mobilerun — 3 operation(s) for tools/number.
+- [Mobilerun Tools/Proxy API](https://apis.io/apis/mobilerun-ai/mobilerun-ai-tools-proxy-api/) — The Tools/Proxy API from Mobilerun — 1 operation(s) for tools/proxy.
+- [Mobilerun Tools/Recordings API](https://apis.io/apis/mobilerun-ai/mobilerun-ai-tools-recordings-api/) — The Tools/Recordings API from Mobilerun — 5 operation(s) for tools/recordings.
+- [Mobilerun Tools/Screenshots API](https://apis.io/apis/mobilerun-ai/mobilerun-ai-tools-screenshots-api/) — The Tools/Screenshots API from Mobilerun — 3 operation(s) for tools/screenshots.
+- [Mobilerun Tools/SIM API](https://apis.io/apis/mobilerun-ai/mobilerun-ai-tools-sim-api/) — The Tools/SIM API from Mobilerun — 4 operation(s) for tools/sim.
+- [Mobilerun Triggers API](https://apis.io/apis/mobilerun-ai/mobilerun-ai-triggers-api/) — The Triggers API from Mobilerun — 3 operation(s) for triggers.
+- [Mobilerun Users API](https://apis.io/apis/mobilerun-ai/mobilerun-ai-users-api/) — Manage your Mobilerun Connect Socks Users
+- [Mobilerun Webhook Deliveries API](https://apis.io/apis/mobilerun-ai/mobilerun-ai-webhook-deliveries-api/) — The Webhook Deliveries API from Mobilerun — 4 operation(s) for webhook deliveries.
+- [Mobilerun Webhook Integrations API](https://apis.io/apis/mobilerun-ai/mobilerun-ai-webhook-integrations-api/) — The Webhook Integrations API from Mobilerun — 2 operation(s) for webhook integrations.
+- [Mobilerun Webhooks API](https://apis.io/apis/mobilerun-ai/mobilerun-ai-webhooks-api/) — The Webhooks API from Mobilerun — 4 operation(s) for webhooks.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Mobilerun Agentic Access](https://apis.io/agentic-access/mobilerun-ai/mobilerun-ai-agentic-access/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [Agent](https://apis.io/schemas/mobilerun-ai/mobilerun-ai-agent/)
+- [Flow](https://apis.io/schemas/mobilerun-ai/mobilerun-ai-flow/)
+- [FlowExecutionDetail](https://apis.io/schemas/mobilerun-ai/mobilerun-ai-flow-execution-detail/)
+- [PublicAppVersion](https://apis.io/schemas/mobilerun-ai/mobilerun-ai-public-app-version/)
+- [TaskCreate](https://apis.io/schemas/mobilerun-ai/mobilerun-ai-task-create/)
+- [UpdateFlowBody](https://apis.io/schemas/mobilerun-ai/mobilerun-ai-update-flow-body/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Mobilerun Ai Context](https://apis.io/jsonld/mobilerun-ai/mobilerun-ai-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Mobilerun API Rules](https://apis.io/rules/mobilerun-ai/mobilerun-ai-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Mobilerun Authentication](https://apis.io/security/mobilerun-ai/mobilerun-ai-authentication/)
+- [Mobilerun Domain Security](https://apis.io/security/mobilerun-ai/mobilerun-ai-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Mobilerun Plans Pricing](https://apis.io/plans/mobilerun-ai/mobilerun-ai-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://mobilerun.ai/)
+- [Documentation](https://docs.mobilerun.ai/)
+- [Getting started](https://docs.mobilerun.ai/quickstart)
+- [API reference](https://docs.mobilerun.ai/api-reference/)
+- [Pricing](https://mobilerun.ai/pricing/)
+- [Changelog](https://mobilerun.ai/changelog)
+- [Blog](https://mobilerun.ai/blog/)
+- [Terms of service](https://cloud.mobilerun.ai/legal/terms-of-service)
+- [Privacy policy](https://mobilerun.ai/cookie-policy)
+- [Status](https://status.mobilerun.ai)
+
+## API Evangelist rating
+
+**Kin Score 56.7** — strong · rubric 0.28.0 · scored 2026-11-18
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 61.6 |
+| Contract governance | 79.1 |
+| Operational transparency | 28.6 |
+| Developer ergonomics | 56.4 |
+| Access clarity | 48.5 |
+
+**Agent readiness 69.9** — agent-native
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | verified |
+| Error Semantics | verified |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | verified |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | conformant |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | partial |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 18.6** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/mobilerun-ai/](https://apis.io/providers/mobilerun-ai/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Mobilerun: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/mobilerun-ai/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
